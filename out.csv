@@ -1,0 +1,6 @@
+email,name,profile_id,total_exp,highest qualification,company_name,skills,created_at
+ab504@c.x0pa.ai,AB 504,AB504,1.5,Diploma in Computer Science,NULL,"rust,go,react,node.js",2021-06-15T00:00:00Z
+ab505@c.x0pa.ai,AB 505,AB505,,,,,2021-03-15T00:00:00Z
+ac505@c.x0pa.ai,AC 505,Ac505,,,SideWays,ML,2021-06-31T00:00:00Z
+ad504@c.x0pa.ai,AD 504,AD504,-10.3,ME in Data Science,Edutech,"python,pandas",2021-05-15T00:00:00Z
+,,,4,Diploma in Finance,ACME,raspberry,
